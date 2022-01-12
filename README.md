@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArshiaDhiman
-- 👀 I’m interested in physics and coding
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in physics and Web3
+- 🌱 I’m currently learning Solidity & ReactJS
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me arshia.niamh@gmail.com
 
 <!---
